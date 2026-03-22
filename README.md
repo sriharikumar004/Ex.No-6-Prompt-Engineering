@@ -9,6 +9,9 @@ Explanation:
 Develop a python code that integrates multiple AI tool by interacting with their APIs.
 Compare outputs from different APIs.
 Analyze the response and the Output.
+
+The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
+
 program:
 ```
 POSITIVE ANALYSIS
@@ -64,7 +67,6 @@ else:
     print("\nInsight: The review tone is neutral or negative.")
 
 ```
-The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 
 
 Result: 
