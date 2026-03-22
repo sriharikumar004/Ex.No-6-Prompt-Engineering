@@ -68,6 +68,7 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 
 Result: 
+
 POSITIVE ANALYSIS:
 <img width="1398" height="232" alt="image" src="https://github.com/user-attachments/assets/6f4e5693-1e0b-4cc1-b7f1-8706901cb015" />
 NEGATIVE ANALYSIS:
